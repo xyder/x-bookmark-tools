@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Favorites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <folders>
+    <Folder>
+      <name>Current Session</name>
+      <favorites>
+        <Favorite>
+          <name>MainView.cs</name>
+          <path>XDBookmarkTools\Views\MainView.cs</path>
+          <absolutePath>G:\xyder_hq\WIP\vs-workspace\Projects\XDBookmarkTools\XDBookmarkTools\Views\MainView.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>To do list.cs</name>
+          <path>XDBookmarkTools\Docs\To do list.cs</path>
+          <absolutePath>G:\xyder_hq\WIP\vs-workspace\Projects\XDBookmarkTools\XDBookmarkTools\Docs\To do list.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>MainController.cs</name>
+          <path>xdbookmarktools\controllers\maincontroller.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\controllers\maincontroller.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>DBController.cs</name>
+          <path>xdbookmarktools\controllers\dbcontroller.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\controllers\dbcontroller.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>DuplicatesView.cs</name>
+          <path>xdbookmarktools\views\duplicatesview.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\views\duplicatesview.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>MainView.cs [Design]</name>
+          <path>XDBookmarkTools\Views\MainView.cs</path>
+          <absolutePath>G:\xyder_hq\WIP\vs-workspace\Projects\XDBookmarkTools\XDBookmarkTools\Views\MainView.cs</absolutePath>
+          <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+        </Favorite>
+        <Favorite>
+          <name>DuplicatesView.cs [Design]</name>
+          <path>xdbookmarktools\views\duplicatesview.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\views\duplicatesview.cs</absolutePath>
+          <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+        </Favorite>
+        <Favorite>
+          <name>DuplicateItem.cs</name>
+          <path>xdbookmarktools\model\duplicateitem.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\model\duplicateitem.cs</absolutePath>
+        </Favorite>
+        <Favorite>
+          <name>BookmarkItem.cs</name>
+          <path>xdbookmarktools\model\bookmarkitem.cs</path>
+          <absolutePath>g:\xyder_hq\wip\vs-workspace\projects\xdbookmarktools\xdbookmarktools\model\bookmarkitem.cs</absolutePath>
+        </Favorite>
+      </favorites>
+    </Folder>
+  </folders>
+  <favorites />
+</Favorites>
